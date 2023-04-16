@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepavishali" ![womendev](https://user-images.githubusercontent.com/115686314/232336877-9945beef-0936-4d74-949c-7de419c2f41d.gif)
                                                                                 
-alt="deepavishali" /></a> </p>
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
