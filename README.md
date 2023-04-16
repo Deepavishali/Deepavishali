@@ -27,6 +27,8 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepavishali&show_icons=true&locale=en&layout=compact" alt="deepavishali" /></p>
 <br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepavishali&show_icons=true&locale=en" alt="deepavishali" /></p>
+<br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepavishali&" alt="deepavishali" /></p>
