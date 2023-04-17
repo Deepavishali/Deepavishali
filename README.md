@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFfyURGd1A/eYOpsYEgZsEq6RjFqJNnfg/view?utm_content=DAFfyURGd1A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFfyURGd1A/eYOpsYEgZsEq6RjFqJNnfg/view?utm_content=DAFfyURGd1A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-<img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" alt="Girl in a jacket" width="500" height="600">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Girl in a jacket" width="500" height="600">
 - ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
