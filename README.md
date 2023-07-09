@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **deepavishalig@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFfyURGd1A/eYOpsYEgZsEq6RjFqJNnfg/view?utm_content=DAFfyURGd1A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFfyURGd1A/eYOpsYEgZsEq6RjFqJNnfg/view?utm_content=DAFfyURGd1A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z2DF0_qd4TyIJ-9q9sU7mCyq39janYDl/view?usp=sharing](https://www.canva.com/design/DAFfyURGd1A/eYOpsYEgZsEq6RjFqJNnfg/view?utm_content=DAFfyURGd1A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 - ⚡ Fun fact **I think I'm funny**
