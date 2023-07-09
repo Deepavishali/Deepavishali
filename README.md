@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://deepavishalig.netlify.app/](My portfolio)
+- 👨‍💻 All of my projects are available at [https://deepavishalig.netlify.app/]
 
 - 💬 Ask me about **html,css,javascript,react,mongoDB,expressjs,nodejs**
 
 - 📫 How to reach me **deepavishalig@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z2DF0_qd4TyIJ-9q9sU7mCyq39janYDl/view?usp=sharing](My Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z2DF0_qd4TyIJ-9q9sU7mCyq39janYDl/view?usp=sharing]
 
 
 - ⚡ Fun fact **I think I'm funny**
